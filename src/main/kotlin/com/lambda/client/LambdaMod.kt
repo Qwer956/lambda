@@ -46,7 +46,7 @@ class LambdaMod {
 
         const val LAMBDA = "λ"
 
-        const val LOG = ""
+        const val LOG = "asd"
 
         var ready: Boolean = false; private set
     }
