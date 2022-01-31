@@ -46,8 +46,6 @@ class LambdaMod {
 
         const val LAMBDA = "λ"
 
-        val LOG: Logger = LogManager.getLogger(NAME)
-
         var ready: Boolean = false; private set
     }
 
